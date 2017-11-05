@@ -1,0 +1,12 @@
+C:\Users\haloh\Desktop\HackPSU 2017\HackPSU 2017\bin\Debug\HackPSU 2017.exe.config
+C:\Users\haloh\Desktop\HackPSU 2017\HackPSU 2017\bin\Debug\HackPSU 2017.exe
+C:\Users\haloh\Desktop\HackPSU 2017\HackPSU 2017\bin\Debug\HackPSU 2017.pdb
+C:\Users\haloh\Desktop\HackPSU 2017\HackPSU 2017\obj\Debug\HackPSU 2017.csprojResolveAssemblyReference.cache
+C:\Users\haloh\Desktop\HackPSU 2017\HackPSU 2017\obj\Debug\HackPSU_2017.Form1.resources
+C:\Users\haloh\Desktop\HackPSU 2017\HackPSU 2017\obj\Debug\HackPSU_2017.Properties.Resources.resources
+C:\Users\haloh\Desktop\HackPSU 2017\HackPSU 2017\obj\Debug\HackPSU 2017.csproj.GenerateResource.Cache
+C:\Users\haloh\Desktop\HackPSU 2017\HackPSU 2017\obj\Debug\HackPSU 2017.csproj.CoreCompileInputs.cache
+C:\Users\haloh\Desktop\HackPSU 2017\HackPSU 2017\obj\Debug\HackPSU 2017.exe
+C:\Users\haloh\Desktop\HackPSU 2017\HackPSU 2017\obj\Debug\HackPSU 2017.pdb
+C:\Users\haloh\Desktop\HackPSU 2017\HackPSU 2017\obj\Debug\HackPSU_2017.LoginForm.resources
+C:\Users\haloh\Desktop\HackPSU 2017\HackPSU 2017\obj\Debug\HackPSU_2017.GUIGrades.resources

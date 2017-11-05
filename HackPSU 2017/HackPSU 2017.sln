@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackPSU 2017", "HackPSU 2017.csproj", "{F206A3A8-374C-4321-BC13-D2B24E173317}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F206A3A8-374C-4321-BC13-D2B24E173317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F206A3A8-374C-4321-BC13-D2B24E173317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F206A3A8-374C-4321-BC13-D2B24E173317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F206A3A8-374C-4321-BC13-D2B24E173317}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {674EAAAB-E71D-4522-9D27-48A18BB4310E}
+	EndGlobalSection
+EndGlobal
