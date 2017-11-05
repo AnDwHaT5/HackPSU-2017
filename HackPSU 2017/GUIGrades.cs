@@ -25,5 +25,10 @@ namespace HackPSU_2017
         {
 
         }
+
+        private void GUIGrades_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            mainForm.Close();
+        }
     }
 }

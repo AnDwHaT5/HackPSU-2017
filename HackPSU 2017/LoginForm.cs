@@ -86,5 +86,22 @@ namespace HackPSU_2017
                 }
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (!Directory.Exists("Accounts/Developer"))
+            {
+                Directory.CreateDirectory("Accounts/Developer");
+            }
+            if(!File.Exists("Accounts/Developer/password.txt"))
+            {
+                File.Create("Accounts/Developer/password.txt");
+                StreamWriter w = new StreamWriter("Accounts/Developer/password.txt");
+                w.WriteLine("dev");
+                w.Close();
+            }
+            mainForm.loginSuccessful("Developer");
+            this.Close();
+        }
     }
 }
